@@ -14,11 +14,13 @@ import sys
 from pathlib import Path
 
 import pandas as pd
+from openpyxl.chart import BarChart, Reference
 from openpyxl.styles import Font, PatternFill
 from openpyxl.utils import get_column_letter
 
 REQUIRED = ["order_id", "order_date", "customer", "region", "product", "quantity", "unit_price"]
 MONEY_COLUMNS = {"unit_price", "revenue", "avg_order_value"}
+MONEY_ROWS = {"Total revenue", "Average order value"}
 
 
 def load(path):
@@ -117,6 +119,30 @@ def write_report(tables, path):
                 if column in MONEY_COLUMNS:
                     for row in range(2, len(table) + 2):
                         ws.cell(row=row, column=idx).number_format = "#,##0.00"
+
+        # Summary holds mixed values in one column, so format the money rows by label
+        summary_ws = writer.sheets["Summary"]
+        for row in range(2, summary_ws.max_row + 1):
+            if summary_ws.cell(row=row, column=1).value in MONEY_ROWS:
+                summary_ws.cell(row=row, column=2).number_format = "#,##0.00"
+
+        add_month_chart(writer.sheets["By Month"], len(tables["By Month"]))
+
+
+def add_month_chart(ws, months):
+    chart = BarChart()
+    chart.title = "Revenue by month"
+    chart.title.overlay = False
+    chart.y_axis.numFmt = "#,##0"
+    chart.legend = None
+    chart.varyColors = False
+    chart.x_axis.delete = False
+    chart.y_axis.delete = False
+    chart.height = 7.5
+    chart.width = 14
+    chart.add_data(Reference(ws, min_col=4, min_row=1, max_row=months + 1), titles_from_data=True)
+    chart.set_categories(Reference(ws, min_col=1, min_row=2, max_row=months + 1))
+    ws.add_chart(chart, "F2")
 
 
 def main():
