@@ -3,7 +3,7 @@
 books.toscrape.com is a public sandbox site built for scraping practice.
 
 Usage:
-    python scrape_books.py                      # all pages -> output/books.csv
+    python scrape_books.py                      # all pages -> output/product_listings.csv
     python scrape_books.py --pages 3 --xlsx     # first 3 pages, also write Excel
 """
 
@@ -99,7 +99,7 @@ def write_xlsx(books, path):
 
     wb = Workbook()
     ws = wb.active
-    ws.title = "books"
+    ws.title = "products"
     ws.append(FIELDS)
     for cell in ws[1]:
         cell.font = Font(bold=True)
@@ -115,7 +115,7 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     parser.add_argument("--pages", type=int, default=None, help="number of pages to collect (default: all)")
     parser.add_argument("--delay", type=float, default=0.5, help="seconds to wait between requests")
-    parser.add_argument("--out", default="output/books.csv", help="CSV output path")
+    parser.add_argument("--out", default="output/product_listings.csv", help="CSV output path")
     parser.add_argument("--xlsx", action="store_true", help="also write an Excel file next to the CSV")
     args = parser.parse_args()
 

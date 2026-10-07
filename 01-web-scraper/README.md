@@ -6,12 +6,12 @@ Collects every book listed on [books.toscrape.com](https://books.toscrape.com/),
 
 One row per product: title, price, star rating (1 to 5), stock status, and the product URL.
 
-A full run collects 1,000 products across 50 pages in about a minute. See [sample_output/books.csv](sample_output/books.csv) and [sample_output/books.xlsx](sample_output/books.xlsx).
+A full run collects 1,000 products across 50 pages in about a minute. See [sample_output/product_listings.csv](sample_output/product_listings.csv) and [sample_output/product_listings.xlsx](sample_output/product_listings.xlsx).
 
 ## Run it
 
 ```
-python scrape_books.py                    # all pages -> output/books.csv
+python scrape_books.py                    # all pages -> output/product_listings.csv
 python scrape_books.py --pages 3 --xlsx   # first 3 pages, also write Excel
 ```
 
@@ -19,7 +19,7 @@ python scrape_books.py --pages 3 --xlsx   # first 3 pages, also write Excel
 |---|---|---|
 | `--pages N` | Number of pages to collect | all |
 | `--delay S` | Seconds to wait between requests | 0.5 |
-| `--out PATH` | CSV output path | `output/books.csv` |
+| `--out PATH` | CSV output path | `output/product_listings.csv` |
 | `--xlsx` | Also write an Excel file | off |
 
 ## How it behaves
