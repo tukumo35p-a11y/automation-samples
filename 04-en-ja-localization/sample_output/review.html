@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><title>Localization review</title>
+<style>
+body { font-family: "Segoe UI", "Yu Gothic UI", "Meiryo", sans-serif; margin: 24px; color: #1f2933; }
+h1 { font-size: 20px; }
+table { border-collapse: collapse; width: 100%; table-layout: fixed; }
+th, td { border: 1px solid #d9dee4; padding: 8px 12px; vertical-align: top; text-align: left; font-size: 14px; line-height: 1.6; }
+th { background: #2f5597; color: #fff; }
+tr.file td { background: #eef2f7; font-weight: 600; }
+td.doc { white-space: pre-wrap; }
+.key { display: block; color: #7b8794; font-family: Consolas, monospace; font-size: 12px; }
+.error { color: #b42318; font-size: 12px; margin-top: 4px; }
+.warning { color: #b54708; font-size: 12px; margin-top: 4px; }
+</style></head><body>
+<h1>Localization review: English to Japanese</h1>
+<table><tr><th>English (source)</th><th>Japanese</th></tr>
+<tr class="file"><td colspan="2">email.md</td></tr><tr><td class="doc">Subject: Your Tasklane trial ends in 3 days
+
+Hi {first_name},
+
+Your free trial of Tasklane Pro ends on {end_date}. After that, your workspace will move to the Free plan, and projects beyond the first 3 will become read-only.
+
+Here&#x27;s what your team did during the trial:
+
+- Created {task_count} tasks
+- Completed {done_count} of them on time
+
+To keep everything as it is, upgrade before your trial ends. It takes less than a minute.
+
+[Upgrade to Pro]({upgrade_url})
+
+If you have any questions, just reply to this email. We usually respond within 24 hours.
+
+Thanks,
+The Tasklane team
+</td><td class="doc" lang="ja">件名:Tasklaneの無料トライアルは、あと3日で終了します
+
+{first_name}様
+
+いつもTasklaneをご利用いただき、ありがとうございます。
+
+Tasklane Proの無料トライアルは、{end_date}に終了します。終了後、ワークスペースは無料プランに切り替わり、最初の3つを除くプロジェクトは閲覧専用になります。
+
+トライアル期間中の、チームのご利用状況をお知らせします。
+
+- 作成したタスク:{task_count}件
+- そのうち期限内に完了したタスク:{done_count}件
+
+現在の状態のまま引き続きご利用いただくには、トライアル終了までにアップグレードをお願いいたします。お手続きは1分もかかりません。
+
+[Proにアップグレードする]({upgrade_url})
+
+ご不明な点がございましたら、このメールにそのままご返信ください。通常24時間以内にお返事いたします。
+
+今後ともよろしくお願いいたします。
+Tasklaneチーム
+</td></tr><tr class="file"><td colspan="2">landing.md</td></tr><tr><td class="doc"># Tasklane: the simple way for small teams to stay on track
+
+Stop chasing updates in chat. Tasklane puts every task, owner, and deadline in one place, so your team always knows what to do next.
+
+## Why teams choose Tasklane
+
+- **See everything at a glance.** One board shows what&#x27;s in progress, what&#x27;s blocked, and what&#x27;s due this week.
+- **Set up in 5 minutes.** No training needed. Invite your teammates and start with a ready-made template.
+- **Never miss a deadline.** Tasklane reminds the right person before a task is due, not after.
+
+## Simple pricing
+
+Free for teams of up to 5 members. The Pro plan is $8 per member per month and includes unlimited projects and priority support.
+
+Start your 14-day free trial today. No credit card required.
+</td><td class="doc" lang="ja"># Tasklane:小さなチームの仕事が、迷わず進む
+
+進捗の確認でチャットをさかのぼるのは、もう終わりにしませんか。Tasklaneなら、タスクも担当者も期限もひとつの場所にまとまるので、チームの誰もが「次にやること」をすぐに把握できます。
+
+## Tasklaneが選ばれる理由
+
+- **状況がひと目でわかる。** 進行中のタスク、止まっているタスク、今週が期限のタスクを、ひとつのボードで確認できます。
+- **5分で始められる。** 研修は必要ありません。メンバーを招待して、用意されたテンプレートからすぐに使い始められます。
+- **期限を逃さない。** 期限を過ぎてからではなく、期限の前に、担当者へリマインドが届きます。
+
+## わかりやすい料金
+
+5人までのチームは無料でご利用いただけます。Proプランはメンバー1人あたり月額8ドルで、プロジェクト数は無制限、優先サポートもご利用いただけます。
+
+14日間の無料トライアルを、今日から始めましょう。クレジットカードの登録は不要です。
+</td></tr><tr class="file"><td colspan="2">ui.json</td></tr><tr><td><span class="key">nav.home</span>Home</td><td lang="ja">ホーム</td></tr><tr><td><span class="key">nav.projects</span>Projects</td><td lang="ja">プロジェクト</td></tr><tr><td><span class="key">nav.settings</span>Settings</td><td lang="ja">設定</td></tr><tr><td><span class="key">auth.sign_in</span>Sign in</td><td lang="ja">ログイン</td></tr><tr><td><span class="key">auth.sign_out</span>Sign out</td><td lang="ja">ログアウト</td></tr><tr><td><span class="key">auth.forgot_password</span>Forgot your password?</td><td lang="ja">パスワードをお忘れですか？</td></tr><tr><td><span class="key">auth.welcome_back</span>Welcome back, {name}!</td><td lang="ja">{name}さん、おかえりなさい</td></tr><tr><td><span class="key">task.new</span>New task</td><td lang="ja">タスクを作成</td></tr><tr><td><span class="key">task.due_today</span>Due today</td><td lang="ja">今日が期限</td></tr><tr><td><span class="key">task.overdue</span>{count} tasks are overdue</td><td lang="ja">期限切れのタスクが{count}件あります</td></tr><tr><td><span class="key">task.assigned_to</span>Assigned to {name}</td><td lang="ja">担当:{name}</td></tr><tr><td><span class="key">task.completed_by</span>{name} completed &quot;{task}&quot;</td><td lang="ja">{name}さんが「{task}」を完了しました</td></tr><tr><td><span class="key">task.delete_confirm</span>Delete this task? This can&#x27;t be undone.</td><td lang="ja">このタスクを削除しますか？この操作は取り消せません。</td></tr><tr><td><span class="key">task.empty</span>No tasks yet. Create your first one to get started.</td><td lang="ja">タスクはまだありません。最初のタスクを作成しましょう。</td></tr><tr><td><span class="key">project.members</span>{count} members</td><td lang="ja">メンバー{count}人</td></tr><tr><td><span class="key">project.invite</span>Invite teammates</td><td lang="ja">メンバーを招待</td></tr><tr><td><span class="key">project.invite_sent</span>Invitation sent to {email}</td><td lang="ja">{email}に招待を送信しました</td></tr><tr><td><span class="key">billing.plan_free</span>Free plan</td><td lang="ja">無料プラン</td></tr><tr><td><span class="key">billing.upgrade</span>Upgrade to Pro</td><td lang="ja">Proにアップグレード</td></tr><tr><td><span class="key">billing.price</span>{price} per member / month</td><td lang="ja">メンバー1人あたり月額{price}</td></tr><tr><td><span class="key">billing.trial_left</span>{days} days left in your trial</td><td lang="ja">無料トライアルは残り{days}日です</td></tr><tr><td><span class="key">error.network</span>We couldn&#x27;t connect. Check your connection and try again.</td><td lang="ja">接続できませんでした。通信環境を確認して、もう一度お試しください。</td></tr><tr><td><span class="key">error.required</span>This field is required.</td><td lang="ja">この項目は必須です。</td></tr><tr><td><span class="key">error.file_too_large</span>The file is too large. The limit is {limit} MB.</td><td lang="ja">ファイルサイズが大きすぎます。上限は{limit}MBです。</td></tr><tr><td><span class="key">common.save</span>Save</td><td lang="ja">保存</td></tr><tr><td><span class="key">common.cancel</span>Cancel</td><td lang="ja">キャンセル</td></tr><tr><td><span class="key">common.saved</span>Changes saved</td><td lang="ja">変更を保存しました</td></tr><tr><td><span class="key">common.learn_more</span>Learn more</td><td lang="ja">詳しく見る</td></tr>
+</table></body></html>

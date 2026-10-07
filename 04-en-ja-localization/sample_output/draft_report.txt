@@ -1,0 +1,14 @@
+ui.json
+  ERROR   common.learn_more       missing in translation
+  ERROR   common.ok               not in source (extra or misspelled key)
+  WARNING auth.sign_in            glossary: "sign in" should be "ログイン"
+  WARNING auth.forgot_password    half-width ? or ! after Japanese text; use the full-width mark
+  ERROR   task.overdue            placeholders differ: source {count}, translation (none)
+  ERROR   task.assigned_to        placeholders differ: source {name}, translation {名前}
+  WARNING project.invite          glossary: "teammate" should be "メンバー"
+  WARNING billing.upgrade         looks untranslated (no Japanese text)
+  WARNING error.required          sentence-ending period does not match the source
+  ERROR   error.file_too_large    empty translation
+
+5 error(s), 5 warning(s) in 1 file(s)
+review page -> sample_output/draft_review.html
