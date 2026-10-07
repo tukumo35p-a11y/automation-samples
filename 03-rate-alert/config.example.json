@@ -1,0 +1,7 @@
+{
+  "base": "USD",
+  "pairs": [
+    { "symbol": "JPY", "above": 160, "below": 150, "change_pct": 1.0 },
+    { "symbol": "EUR", "change_pct": 1.0 }
+  ]
+}

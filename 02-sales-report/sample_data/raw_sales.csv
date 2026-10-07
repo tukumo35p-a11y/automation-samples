@@ -1,0 +1,313 @@
+Order ID,Order Date,Customer,Region,Product,Quantity,Unit Price
+SO-0283,02/18/2026,Blue Ocean Ltd,East,standing desk,1, 1249.0 
+SO-0164,2026-02-25,Summit Supplies,North,Wireless Mouse,-10,$24.99
+SO-0119,16 May 2026,ACME CORP,West,Standing Desk,7,1249.00
+SO-0192,"February 20, 2026",Greenfield Inc,West,Standing Desk,8,1249.00
+SO-0168,"March 03, 2026",Summit Supplies,  North ,WIRELESS MOUSE,-4,24.99
+SO-0133,05/22/2026,Summit Supplies,North,Desk Lamp,10,32.00
+SO-0044,08 Apr 2026,Acme Corp,North,Desk Lamp,5,32.00
+SO-0118,"May 01, 2026",Nova Trading,NORTH,  Desk Lamp ,12,32.00
+SO-0162,01/16/2026,Blue Ocean Ltd,west,  Wireless Mouse ,9,$24.99
+SO-0196,"January 19, 2026",Summit Supplies,West,Monitor Arm,8,89.00
+SO-0268,"February 18, 2026",Summit Supplies,North,wireless mouse,8,24.99
+SO-0253,2026-03-02,Harbor Foods,East,  Wireless Mouse ,6,$24.99
+SO-0030,14 Jun 2026,acme corp,east,Desk Lamp,9,$32.00
+SO-0160,30 Jun 2026,Greenfield Inc,South,Standing Desk,5,1249.00
+SO-0189,2026-04-24,Blue Ocean Ltd,west,DESK LAMP,6,32.00
+SO-0282,"June 07, 2026",NOVA TRADING,South,Laptop Stand,7,39.50
+SO-0127,2026-06-07,Acme Corp,West,Desk Lamp,7,32.00
+SO-0138,"June 10, 2026",Blue Ocean Ltd,  West ,MONITOR ARM,9,89.00
+SO-0097,2026-01-18,Harbor Foods,West,Monitor Arm,3,89.00
+SO-0226,11 May 2026,Nova Trading,North,Wireless Mouse,4,$24.99
+SO-0039,2026-05-14,  Harbor Foods ,East,Desk Lamp,8,$32.00
+SO-0233,02/21/2026,Nova Trading,West,Desk Lamp,5,32.00
+SO-0221,2026-06-25,Blue Ocean Ltd,West,Standing Desk,8,"$1,249.00"
+SO-0188,03/17/2026,Nova Trading,South,Standing Desk,4,"$1,249.00"
+SO-0113,02/11/2026,Harbor Foods,West,Laptop Stand,3,39.50
+SO-0117,09 May 2026,BLUE OCEAN LTD,North,Monitor Arm,6,$89.00
+SO-0286,2026-05-17,Harbor Foods,North,Desk Lamp,10 pcs,32.00
+SO-0094,"April 16, 2026",HARBOR FOODS,East,Wireless Mouse,6,$24.99
+SO-0121,2026-05-15,Nova Trading,North,Wireless Mouse,-6,$24.99
+SO-0254,"January 28, 2026",Blue Ocean Ltd,West,Desk Lamp,,32.00
+SO-0238,28 Jan 2026,nova trading,East,  Standing Desk ,3,"$1,249.00"
+SO-0257,15 Apr 2026,  Harbor Foods ,SOUTH,Laptop Stand,12,39.50
+SO-0242,2026-01-24,Blue Ocean Ltd,West,Laptop Stand,6,39.50
+SO-0099,"January 30, 2026",Summit Supplies,  North ,Standing Desk,6,"$1,249.00"
+SO-0023,04 Mar 2026,Summit Supplies,North,Wireless Mouse,6,$24.99
+SO-0087,01/18/2026,Greenfield Inc,  North ,Laptop Stand,9,39.50
+SO-0288,2026-05-11,nova trading,South,Wireless Mouse,12, 24.99 
+SO-0073,2026-03-23,SUMMIT SUPPLIES,East,Monitor Arm,11,$89.00
+SO-0077,28 Jan 2026,  Harbor Foods ,  West ,Monitor Arm,4,89.00
+SO-0035,18 Jun 2026,Acme Corp,South,  Laptop Stand ,2,$39.50
+SO-0008,"May 18, 2026",  Greenfield Inc ,South,STANDING DESK,5,"$1,249.00"
+SO-0102,"April 14, 2026",Harbor Foods,North,wireless mouse,1,24.99
+SO-0024,03/09/2026,  Greenfield Inc ,South,  Laptop Stand ,2,$39.50
+SO-0021,2026-01-31,Nova Trading,East,  Monitor Arm ,10,$89.00
+SO-0203,28 May 2026,greenfield inc,  North ,Wireless Mouse,2,24.99
+SO-0026,05/24/2026,SUMMIT SUPPLIES,East,monitor arm,1, 89.0 
+SO-0136,14 Mar 2026,Blue Ocean Ltd,North,standing desk,2,"$1,249.00"
+SO-0029,26 Feb 2026,  Blue Ocean Ltd ,South,  Monitor Arm ,4,89.00
+SO-0280,03/18/2026,Blue Ocean Ltd,west,Standing Desk,7 pcs,"$1,249.00"
+SO-0273,14 Jun 2026,  Nova Trading ,West,Desk Lamp,5,32.00
+SO-0278,05/01/2026,Harbor Foods,  North ,  Wireless Mouse ,3,24.99
+SO-0101,2026-01-19,Nova Trading,East,Desk Lamp,7,32.00
+SO-0292,26 Mar 2026,HARBOR FOODS,east,Laptop Stand,6,$39.50
+SO-0096,07 Jan 2026,acme corp,East,Standing Desk,10,"$1,249.00"
+SO-0270,2026-05-10,Blue Ocean Ltd,west,Monitor Arm,7, 89.0 
+SO-0036,"May 02, 2026",Harbor Foods,West,  Laptop Stand ,10,$39.50
+SO-0017,18 Feb 2026,  Nova Trading ,North,Laptop Stand,9,$39.50
+SO-0194,"March 04, 2026",greenfield inc,South,Standing Desk,6,1249.00
+SO-0012,2026-01-15,Harbor Foods,North,Laptop Stand,4,39.50
+SO-0247,05/28/2026,  Blue Ocean Ltd ,East,Laptop Stand,7,$39.50
+SO-0005,26 Jan 2026,Blue Ocean Ltd,South,Laptop Stand,7,$39.50
+SO-0220,2026-06-14,Summit Supplies,West,  Laptop Stand ,11,39.50
+SO-0296,2026-02-08,Harbor Foods,West,Monitor Arm,9,89.00
+SO-0043,2026-01-07,Harbor Foods,west,  Standing Desk ,7,1249.00
+SO-0059,01 May 2026,Harbor Foods,North,Standing Desk,5 pcs,1249.00
+SO-0180,2026-05-16,Summit Supplies,West,Wireless Mouse,12,$24.99
+SO-0285,01/05/2026,HARBOR FOODS,south,Monitor Arm,4, 89.0 
+SO-0010,29 Jan 2026,Summit Supplies,North,  Desk Lamp ,5,32.00
+SO-0085,07 Jun 2026,Blue Ocean Ltd,South,MONITOR ARM,7,89.00
+SO-0148,2026-04-08,BLUE OCEAN LTD,East,Standing Desk,3,1249.00
+SO-0075,02/13/2026,Nova Trading,  South ,Laptop Stand,-3,39.50
+SO-0265,28 Jan 2026,  Nova Trading ,West,Wireless Mouse,10,24.99
+SO-0251,16 Jun 2026,Blue Ocean Ltd,South,Monitor Arm,6,$89.00
+SO-0125,"April 23, 2026",Greenfield Inc,East,Monitor Arm,7,89.00
+SO-0227,2026-01-23,Greenfield Inc,south,Laptop Stand,7,$39.50
+SO-0219,01/31/2026,NOVA TRADING,north,Desk Lamp,7, 32.0 
+SO-0001,2026-01-07,Harbor Foods,North,WIRELESS MOUSE,12,$24.99
+SO-0266,05 Jun 2026,  Harbor Foods ,West,Standing Desk,11,1249.00
+SO-0300,2026-05-02,Acme Corp,SOUTH,Standing Desk,12,1249.00
+SO-0022,2026-02-03,Acme Corp,NORTH,  Monitor Arm ,11,89.00
+SO-0198,03/26/2026,Summit Supplies,South,Monitor Arm,7,89.00
+SO-0152,2026-03-30,Greenfield Inc,East,  Monitor Arm ,3,$89.00
+SO-0289,03/17/2026,Harbor Foods,  East ,MONITOR ARM,3 pcs,$89.00
+SO-0267,2026-03-21,blue ocean ltd,West,Desk Lamp,5,32.00
+SO-0294,26 May 2026,SUMMIT SUPPLIES,South,Monitor Arm,11,89.00
+SO-0252,2026-06-29,Blue Ocean Ltd,South,wireless mouse,10, 24.99 
+SO-0147,2026-04-17,Summit Supplies,South,Wireless Mouse,10,24.99
+SO-0105,14 Jun 2026,Blue Ocean Ltd,West,Standing Desk,11,"$1,249.00"
+SO-0063,2026-02-16,Nova Trading,East,desk lamp,10,32.00
+SO-0131,2026-04-26,Harbor Foods,East,Wireless Mouse,3,$24.99
+SO-0145,09 May 2026,Nova Trading,South,Monitor Arm,1 pcs,89.00
+SO-0157,03/26/2026,Acme Corp,East,Wireless Mouse,3,24.99
+SO-0200,"February 22, 2026",Harbor Foods,EAST,MONITOR ARM,9,$89.00
+SO-0067,31 Jan 2026,Summit Supplies,West,Monitor Arm,11,89.00
+SO-0295,03/08/2026,Harbor Foods,North,Wireless Mouse,11,24.99
+SO-0037,"April 19, 2026",Acme Corp,North,Wireless Mouse,4,24.99
+SO-0093,2026-01-18,Harbor Foods,South,Monitor Arm,2, 89.0 
+SO-0070,"June 28, 2026",Acme Corp,West,Laptop Stand,4,39.50
+SO-0033,21 Mar 2026,summit supplies,West,Standing Desk,11,"$1,249.00"
+SO-0230,2026-05-27,Acme Corp,  North ,Wireless Mouse,11,$24.99
+SO-0186,05 Feb 2026,ACME CORP,South,Monitor Arm,12,89.00
+SO-0049,22 Apr 2026,Summit Supplies,West,Laptop Stand,3, 39.5 
+SO-0187,"March 25, 2026",  Nova Trading ,West,Monitor Arm,1,$89.00
+SO-0088,29 Jan 2026,Blue Ocean Ltd,north,LAPTOP STAND,11,39.50
+SO-0006,17 May 2026,Harbor Foods,South,Laptop Stand,12,$39.50
+SO-0032,06/25/2026,Greenfield Inc,East,Standing Desk,12,1249.00
+SO-0124,05/20/2026,Greenfield Inc,North,Monitor Arm,8, 89.0 
+SO-0079,10 Jun 2026,NOVA TRADING,East,LAPTOP STAND,2,39.50
+SO-0297,"March 26, 2026",Nova Trading,North,Laptop Stand,5 pcs,39.50
+SO-0167,17 May 2026,  Blue Ocean Ltd ,NORTH,Monitor Arm,7,89.00
+SO-0185,"May 31, 2026",  Acme Corp ,South,Laptop Stand,3,39.50
+SO-0169,05 Feb 2026,Summit Supplies,  East ,Wireless Mouse,9,24.99
+SO-0086,"January 16, 2026",Acme Corp,NORTH,Desk Lamp,7,32.00
+SO-0237,"March 02, 2026",Harbor Foods,East,  Laptop Stand ,5,$39.50
+SO-0156,2026-03-16,  Greenfield Inc ,West,laptop stand,,$39.50
+SO-0084,"January 25, 2026",Greenfield Inc,West,Wireless Mouse,4,24.99
+SO-0123,"June 11, 2026",  Acme Corp ,North,Monitor Arm,3, 89.0 
+SO-0106,19 Jan 2026,GREENFIELD INC,North,Standing Desk,5,1249.00
+SO-0184,02 May 2026,Summit Supplies,north,Standing Desk,5 pcs,
+SO-0205,"March 20, 2026",Nova Trading,West,Laptop Stand,2,39.50
+SO-0269,05/15/2026,  Acme Corp ,WEST,Laptop Stand,, 39.5 
+SO-0080,21 Feb 2026,Summit Supplies,East,  Laptop Stand ,3,39.50
+SO-0183,22 Jan 2026,Summit Supplies,North,Laptop Stand,8,39.50
+SO-0122,30 Mar 2026,BLUE OCEAN LTD,East,wireless mouse,4,24.99
+SO-0243,"April 01, 2026",BLUE OCEAN LTD,South,Laptop Stand,4,39.50
+SO-0228,05/14/2026,greenfield inc,East,desk lamp,9, 32.0 
+SO-0047,04/12/2026,Acme Corp,East,Monitor Arm,12,89.00
+SO-0129,04/05/2026,Summit Supplies,East,  Monitor Arm ,6,89.00
+SO-0249,01/01/2026,Greenfield Inc,EAST,monitor arm,6,$89.00
+SO-0055,02 Feb 2026,Harbor Foods,west,STANDING DESK,5 pcs,1249.00
+SO-0146,11 Apr 2026,Summit Supplies,West,  Laptop Stand ,10, 39.5 
+SO-0090,2026-01-16,Nova Trading,WEST,WIRELESS MOUSE,8,$24.99
+SO-0055,02 Feb 2026,Harbor Foods,west,STANDING DESK,5 pcs,1249.00
+SO-0104,03/02/2026,HARBOR FOODS,West,Laptop Stand,2,39.50
+SO-0195,2026-02-23,Nova Trading,South,  Monitor Arm ,8,89.00
+SO-0041,28 May 2026,Nova Trading,West,Wireless Mouse,7,24.99
+SO-0130,13 May 2026,Harbor Foods,East,Monitor Arm,7,$89.00
+SO-0018,01/04/2026,Nova Trading,South,Standing Desk,2,"$1,249.00"
+SO-0244,03/13/2026,Harbor Foods,North,Wireless Mouse,7,24.99
+SO-0170,03/18/2026,Harbor Foods,WEST,Monitor Arm,-5, 89.0 
+SO-0057,01/22/2026,Summit Supplies,  West ,Desk Lamp,4,32.00
+SO-0135,2026-04-21,summit supplies,south,Laptop Stand,9,39.50
+SO-0082,09 Mar 2026,Summit Supplies,east,  Wireless Mouse ,9,24.99
+SO-0019,"March 09, 2026",blue ocean ltd,South,Monitor Arm,8,89.00
+SO-0218,,NOVA TRADING,South,Monitor Arm,2,
+SO-0279,2026-04-06,NOVA TRADING,North,desk lamp,5,32.00
+SO-0126,20 May 2026,Greenfield Inc,west,Laptop Stand,5,39.50
+SO-0078,05 Jun 2026,Blue Ocean Ltd,  East ,wireless mouse,12,24.99
+SO-0291,26 Jan 2026,Harbor Foods,NORTH,Wireless Mouse,3,24.99
+SO-0083,"March 25, 2026",Harbor Foods,west,STANDING DESK,10,1249.00
+SO-0153,06/28/2026,BLUE OCEAN LTD,South,STANDING DESK,5,1249.00
+SO-0293,06/26/2026,acme corp,North,Monitor Arm,8,89.00
+SO-0040,"June 27, 2026",Greenfield Inc,WEST,Monitor Arm,3,89.00
+SO-0120,06/02/2026,harbor foods,WEST,Monitor Arm,,$89.00
+SO-0085,07 Jun 2026,Blue Ocean Ltd,South,MONITOR ARM,7,89.00
+SO-0002,"January 07, 2026",Blue Ocean Ltd,East,STANDING DESK,9,1249.00
+SO-0287,2026-06-29,Greenfield Inc,North,  Monitor Arm ,3,$89.00
+SO-0150,20 May 2026,Summit Supplies,  South ,  Desk Lamp ,6,32.00
+SO-0275,06/17/2026,Blue Ocean Ltd,South,Desk Lamp,12,32.00
+SO-0034,,  Greenfield Inc ,East,Standing Desk,7,1249.00
+SO-0271,2026-03-08,NOVA TRADING,South,Laptop Stand,12,$39.50
+SO-0143,04/04/2026,Greenfield Inc,North,Desk Lamp,7,32.00
+SO-0072,15 Apr 2026,Greenfield Inc,West,Laptop Stand,11,39.50
+SO-0110,27 Mar 2026,Greenfield Inc,west,Laptop Stand,2,39.50
+SO-0011,2026-04-06,Summit Supplies,north,Laptop Stand,3,39.50
+SO-0097,2026-01-18,Harbor Foods,West,Monitor Arm,3,89.00
+SO-0031,2026-03-30,Nova Trading,  South ,Monitor Arm,12,
+SO-0132,02/10/2026,Greenfield Inc,North,Desk Lamp,12,32.00
+SO-0045,,  Blue Ocean Ltd ,West,Wireless Mouse,4,24.99
+SO-0048,30 Mar 2026,Acme Corp,west,Wireless Mouse,9,24.99
+SO-0020,01/13/2026,Acme Corp,North,WIRELESS MOUSE,10,24.99
+SO-0046,2026-02-12,Blue Ocean Ltd,North,Desk Lamp,10,32.00
+SO-0115,"February 21, 2026",Greenfield Inc,North,Laptop Stand,10,$39.50
+SO-0223,2026-03-03,Summit Supplies,North,Wireless Mouse,8,24.99
+SO-0050,"January 23, 2026",Summit Supplies,West,Laptop Stand,5,39.50
+SO-0051,08 Mar 2026,SUMMIT SUPPLIES,SOUTH,Desk Lamp,6,32.00
+SO-0155,2026-01-23,Blue Ocean Ltd,South,WIRELESS MOUSE,11,24.99
+SO-0140,03/03/2026,ACME CORP,West,Desk Lamp,8,32.00
+SO-0276,24 Jun 2026,Greenfield Inc,West,DESK LAMP,3,32.00
+SO-0095,2026-02-27,Greenfield Inc,West,Monitor Arm,2,89.00
+SO-0208,"March 12, 2026",Summit Supplies,West,wireless mouse,4,24.99
+SO-0182,2026-03-18,Acme Corp,West,LAPTOP STAND,11,
+SO-0290,2026-06-21,Harbor Foods,East,Standing Desk,8,"$1,249.00"
+SO-0163,"April 25, 2026",SUMMIT SUPPLIES,West,Standing Desk,1,"$1,249.00"
+SO-0210,23 Apr 2026,Harbor Foods,west,wireless mouse,2,$24.99
+SO-0114,"March 01, 2026",Blue Ocean Ltd,West,  Monitor Arm ,9,89.00
+SO-0159,26 Mar 2026,Harbor Foods,SOUTH,desk lamp,5,32.00
+SO-0236,2026-04-16,SUMMIT SUPPLIES,South,Standing Desk,12,"$1,249.00"
+SO-0253,2026-03-02,Harbor Foods,East,  Wireless Mouse ,6,$24.99
+SO-0245,03/30/2026,Acme Corp,SOUTH,Monitor Arm,10,89.00
+SO-0239,2026-01-24,Blue Ocean Ltd,east,Wireless Mouse,3, 24.99 
+SO-0142,"February 25, 2026",Summit Supplies,  West ,LAPTOP STAND,10,$39.50
+SO-0081,03/28/2026,Harbor Foods,West,Desk Lamp,2,32.00
+SO-0277,"March 29, 2026",Harbor Foods,East,Laptop Stand,12,$39.50
+SO-0107,"April 26, 2026",summit supplies,North,Wireless Mouse,10,24.99
+SO-0206,23 May 2026,Nova Trading,East,Laptop Stand,3, 39.5 
+SO-0241,2026-02-26,Summit Supplies,NORTH,WIRELESS MOUSE,3,24.99
+SO-0013,02/12/2026,Summit Supplies,South,Standing Desk,5, 1249.0 
+SO-0171,"March 23, 2026",Blue Ocean Ltd,  West ,  Standing Desk ,12,"$1,249.00"
+SO-0178,2026-05-06,SUMMIT SUPPLIES,North,Standing Desk,3,1249.00
+SO-0281,"June 11, 2026",  Greenfield Inc ,South,desk lamp,3,32.00
+SO-0179,"January 18, 2026",GREENFIELD INC,West,LAPTOP STAND,12,39.50
+SO-0224,"April 18, 2026",ACME CORP,NORTH,  Standing Desk ,6,1249.00
+SO-0131,2026-04-26,Harbor Foods,East,Wireless Mouse,3,$24.99
+SO-0061,01 Feb 2026,Summit Supplies,WEST,MONITOR ARM,8, 89.0 
+SO-0100,"February 05, 2026",Harbor Foods,South,Laptop Stand,5,39.50
+SO-0211,05/26/2026,Greenfield Inc,  East ,  Wireless Mouse ,6,24.99
+SO-0260,2026-04-30,Blue Ocean Ltd,NORTH,Monitor Arm,5,89.00
+SO-0191,10 Mar 2026,  Nova Trading ,North,Desk Lamp,8,32.00
+SO-0058,06/06/2026,Greenfield Inc,  South ,Wireless Mouse,12,24.99
+SO-0144,"June 24, 2026",Greenfield Inc,East,Standing Desk,10,1249.00
+SO-0190,2026-04-09,Harbor Foods,South,desk lamp,1,$32.00
+SO-0255,2026-06-16,GREENFIELD INC,East,STANDING DESK,11, 1249.0 
+SO-0158,2026-04-20,Blue Ocean Ltd,West,  Monitor Arm ,9,$89.00
+SO-0027,02 Apr 2026,Summit Supplies,West,Wireless Mouse,4,$24.99
+SO-0116,"March 11, 2026",Acme Corp,South,Laptop Stand,8,39.50
+SO-0209,05/19/2026,nova trading,  South ,Desk Lamp,1, 32.0 
+SO-0262,05/09/2026,Acme Corp,west,Wireless Mouse,10,24.99
+SO-0009,"June 24, 2026",  Summit Supplies ,North,laptop stand,7,39.50
+SO-0139,29 Apr 2026,Harbor Foods,East,monitor arm,4,89.00
+SO-0234,,Summit Supplies,North,LAPTOP STAND,1,39.50
+SO-0053,21 May 2026,  Greenfield Inc ,South,Monitor Arm,6,89.00
+SO-0076,15 Mar 2026,  Summit Supplies ,West,Monitor Arm,11,89.00
+SO-0201,06/15/2026,summit supplies,South,Desk Lamp,2,32.00
+SO-0264,"April 12, 2026",Acme Corp,west,standing desk,9,1249.00
+SO-0016,2026-04-01,Harbor Foods,NORTH,Monitor Arm,7,$89.00
+SO-0281,"June 11, 2026",  Greenfield Inc ,South,desk lamp,3,32.00
+SO-0240,2026-06-23,Nova Trading,SOUTH,wireless mouse,5,$24.99
+SO-0065,18 Jun 2026,Summit Supplies,West,  Wireless Mouse ,9,24.99
+SO-0175,"May 17, 2026",NOVA TRADING,West,Monitor Arm,11, 89.0 
+SO-0250,"May 15, 2026",summit supplies,East,Wireless Mouse,6,24.99
+SO-0042,,Greenfield Inc,West,Monitor Arm,5,89.00
+SO-0101,2026-01-19,Nova Trading,East,Desk Lamp,7,32.00
+SO-0193,02/04/2026,Nova Trading,West,  Standing Desk ,5,1249.00
+SO-0274,11 May 2026,Greenfield Inc,WEST,Wireless Mouse,11,24.99
+SO-0052,2026-06-15,  Greenfield Inc ,South,Monitor Arm,12,89.00
+SO-0015,"March 26, 2026",Blue Ocean Ltd,  West ,Wireless Mouse,2,$24.99
+SO-0172,01/15/2026,  Nova Trading ,South,MONITOR ARM,9, 89.0 
+SO-0014,2026-04-26,Summit Supplies,SOUTH,Standing Desk,2,"$1,249.00"
+SO-0038,"March 23, 2026",Summit Supplies,South,Standing Desk,8,"$1,249.00"
+SO-0072,15 Apr 2026,Greenfield Inc,West,Laptop Stand,11,39.50
+SO-0007,22 Mar 2026,Blue Ocean Ltd,West,Wireless Mouse,7,$24.99
+SO-0028,15 Feb 2026,Nova Trading,  South ,Laptop Stand,,39.50
+SO-0134,2026-05-28,Nova Trading,east,Monitor Arm,2,89.00
+SO-0004,01 Feb 2026,summit supplies,NORTH,  Standing Desk ,-7,"$1,249.00"
+SO-0207,"May 10, 2026",Harbor Foods,west,Standing Desk,11,"$1,249.00"
+SO-0109,2026-01-14,Summit Supplies,  East ,Standing Desk,11,1249.00
+SO-0217,12 Mar 2026,Harbor Foods,SOUTH,Laptop Stand,2,39.50
+SO-0225,"May 10, 2026",Nova Trading,North,Monitor Arm,5,$89.00
+SO-0074,2026-04-24,Greenfield Inc,East,Wireless Mouse,3,24.99
+SO-0137,2026-06-04,ACME CORP,East,Standing Desk,6,1249.00
+SO-0216,"January 05, 2026",Acme Corp,  West ,Monitor Arm,2,89.00
+SO-0229,2026-03-11,Nova Trading,EAST,Monitor Arm,-9,$89.00
+SO-0192,"February 20, 2026",Greenfield Inc,West,Standing Desk,8,1249.00
+SO-0173,2026-02-18,acme corp,South,Standing Desk,1,1249.00
+SO-0214,2026-05-05,Harbor Foods,East,Monitor Arm,6,89.00
+SO-0246,05/16/2026,  Acme Corp ,  South ,Monitor Arm,6,$89.00
+SO-0181,03 Mar 2026,Greenfield Inc,North,Laptop Stand,4,39.50
+SO-0060,19 Apr 2026,BLUE OCEAN LTD,South,Laptop Stand,2,39.50
+SO-0166,01/31/2026,Harbor Foods,North,Desk Lamp,3,32.00
+SO-0258,"April 03, 2026",BLUE OCEAN LTD,south,  Wireless Mouse ,1,24.99
+SO-0092,25 Feb 2026,Nova Trading,North,Standing Desk,7,1249.00
+SO-0068,2026-02-18,Greenfield Inc,West,Monitor Arm,10,$89.00
+SO-0177,08 May 2026,Nova Trading,West,Laptop Stand,9,$39.50
+SO-0149,05/01/2026,Summit Supplies,West,Standing Desk,12,1249.00
+SO-0108,"May 10, 2026",Nova Trading,South,Wireless Mouse,11,24.99
+SO-0103,04/12/2026,Acme Corp,North,wireless mouse,5, 24.99 
+SO-0112,19 Feb 2026,Acme Corp,North,Monitor Arm,4,89.00
+SO-0161,04/17/2026,Blue Ocean Ltd,North,Desk Lamp,12,32.00
+SO-0154,06/24/2026,Nova Trading,West,wireless mouse,, 24.99 
+SO-0263,01/11/2026,harbor foods,East,Laptop Stand,-7,$39.50
+SO-0212,02/04/2026,Harbor Foods,south,Wireless Mouse,7,24.99
+SO-0071,07 May 2026,Acme Corp,WEST,Laptop Stand,1,
+SO-0298,2026-03-22,Acme Corp,North,MONITOR ARM,2,89.00
+SO-0232,"February 15, 2026",Acme Corp,East,Wireless Mouse,4,24.99
+SO-0151,"June 30, 2026",Greenfield Inc,  East ,Desk Lamp,4,32.00
+SO-0176,,Summit Supplies,  West ,wireless mouse,4,24.99
+SO-0204,10 Apr 2026,Nova Trading,East,Standing Desk,10, 1249.0 
+SO-0141,"May 28, 2026",Summit Supplies,East,DESK LAMP,12,32.00
+SO-0128,2026-06-05,Blue Ocean Ltd,East,Laptop Stand,11,$39.50
+SO-0215,05/07/2026,Summit Supplies,East,Laptop Stand,5,39.50
+SO-0197,06/02/2026,Harbor Foods,South,STANDING DESK,11,1249.00
+SO-0299,"June 13, 2026",Greenfield Inc,North,Standing Desk,5,1249.00
+SO-0165,"June 14, 2026",Nova Trading,West,Laptop Stand,12,39.50
+SO-0199,08 Feb 2026,Nova Trading,north,Standing Desk,6, 1249.0 
+SO-0054,25 Feb 2026,Acme Corp,  East ,laptop stand,12,
+SO-0066,06/28/2026,harbor foods,North,MONITOR ARM,8,89.00
+SO-0089,2026-05-02,Nova Trading,North,Wireless Mouse,8, 24.99 
+SO-0091,"June 09, 2026",Summit Supplies,West,Desk Lamp,11,$32.00
+SO-0261,"February 28, 2026",Summit Supplies,West,  Standing Desk ,-9, 1249.0 
+SO-0248,"May 26, 2026",Summit Supplies,WEST,DESK LAMP,10,$32.00
+SO-0222,05 Mar 2026,HARBOR FOODS,  East ,Wireless Mouse,9, 24.99 
+SO-0284,12 Jan 2026,Nova Trading,South,Wireless Mouse,5,$24.99
+SO-0025,06 Mar 2026,ACME CORP,South,  Monitor Arm ,1,89.00
+SO-0272,2026-05-12,Nova Trading,South,MONITOR ARM,1,89.00
+SO-0003,2026-03-13,Acme Corp,East,Desk Lamp,3,32.00
+SO-0256,"May 21, 2026",HARBOR FOODS,South,Wireless Mouse,2, 24.99 
+SO-0069,05/31/2026,Nova Trading,East,Desk Lamp,10,32.00
+SO-0259,2026-04-12,Harbor Foods,South,Desk Lamp,8,$32.00
+SO-0210,23 Apr 2026,Harbor Foods,west,wireless mouse,2,$24.99
+SO-0231,22 May 2026,Blue Ocean Ltd,  East ,WIRELESS MOUSE,12,24.99
+SO-0064,2026-03-15,NOVA TRADING,East,Monitor Arm,11,89.00
+SO-0268,"February 18, 2026",Summit Supplies,North,wireless mouse,8,24.99
+SO-0024,03/09/2026,  Greenfield Inc ,South,  Laptop Stand ,2,$39.50
+SO-0213,"May 06, 2026",Nova Trading,North,Monitor Arm,3,89.00
+SO-0056,2026-02-17,Acme Corp,North,Desk Lamp,1,32.00
+SO-0174,"February 24, 2026",Blue Ocean Ltd,South,  Wireless Mouse ,4,$24.99
+SO-0098,2026-06-02,HARBOR FOODS,West,Standing Desk,2,"$1,249.00"
+SO-0235,"January 27, 2026",Acme Corp,South,DESK LAMP,4,32.00
+SO-0111,2026-02-02,Harbor Foods,EAST,Desk Lamp,11, 32.0 
+SO-0202,02/17/2026,Nova Trading,WEST,  Laptop Stand ,11,39.50
+SO-0062,2026-01-07,Harbor Foods,North,desk lamp,2,32.00

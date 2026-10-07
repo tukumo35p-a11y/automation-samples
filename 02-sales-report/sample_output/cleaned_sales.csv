@@ -1,0 +1,275 @@
+﻿order_id,order_date,customer,region,product,quantity,unit_price,revenue
+SO-0249,2026-01-01,Greenfield Inc,East,Monitor Arm,6,89.0,534.0
+SO-0018,2026-01-04,Nova Trading,South,Standing Desk,2,1249.0,2498.0
+SO-0216,2026-01-05,Acme Corp,West,Monitor Arm,2,89.0,178.0
+SO-0285,2026-01-05,Harbor Foods,South,Monitor Arm,4,89.0,356.0
+SO-0001,2026-01-07,Harbor Foods,North,Wireless Mouse,12,24.99,299.88
+SO-0002,2026-01-07,Blue Ocean Ltd,East,Standing Desk,9,1249.0,11241.0
+SO-0043,2026-01-07,Harbor Foods,West,Standing Desk,7,1249.0,8743.0
+SO-0062,2026-01-07,Harbor Foods,North,Desk Lamp,2,32.0,64.0
+SO-0096,2026-01-07,Acme Corp,East,Standing Desk,10,1249.0,12490.0
+SO-0284,2026-01-12,Nova Trading,South,Wireless Mouse,5,24.99,124.95
+SO-0020,2026-01-13,Acme Corp,North,Wireless Mouse,10,24.99,249.9
+SO-0109,2026-01-14,Summit Supplies,East,Standing Desk,11,1249.0,13739.0
+SO-0012,2026-01-15,Harbor Foods,North,Laptop Stand,4,39.5,158.0
+SO-0172,2026-01-15,Nova Trading,South,Monitor Arm,9,89.0,801.0
+SO-0086,2026-01-16,Acme Corp,North,Desk Lamp,7,32.0,224.0
+SO-0090,2026-01-16,Nova Trading,West,Wireless Mouse,8,24.99,199.92
+SO-0162,2026-01-16,Blue Ocean Ltd,West,Wireless Mouse,9,24.99,224.91
+SO-0087,2026-01-18,Greenfield Inc,North,Laptop Stand,9,39.5,355.5
+SO-0093,2026-01-18,Harbor Foods,South,Monitor Arm,2,89.0,178.0
+SO-0097,2026-01-18,Harbor Foods,West,Monitor Arm,3,89.0,267.0
+SO-0179,2026-01-18,Greenfield Inc,West,Laptop Stand,12,39.5,474.0
+SO-0101,2026-01-19,Nova Trading,East,Desk Lamp,7,32.0,224.0
+SO-0106,2026-01-19,Greenfield Inc,North,Standing Desk,5,1249.0,6245.0
+SO-0196,2026-01-19,Summit Supplies,West,Monitor Arm,8,89.0,712.0
+SO-0057,2026-01-22,Summit Supplies,West,Desk Lamp,4,32.0,128.0
+SO-0183,2026-01-22,Summit Supplies,North,Laptop Stand,8,39.5,316.0
+SO-0050,2026-01-23,Summit Supplies,West,Laptop Stand,5,39.5,197.5
+SO-0155,2026-01-23,Blue Ocean Ltd,South,Wireless Mouse,11,24.99,274.89
+SO-0227,2026-01-23,Greenfield Inc,South,Laptop Stand,7,39.5,276.5
+SO-0239,2026-01-24,Blue Ocean Ltd,East,Wireless Mouse,3,24.99,74.97
+SO-0242,2026-01-24,Blue Ocean Ltd,West,Laptop Stand,6,39.5,237.0
+SO-0084,2026-01-25,Greenfield Inc,West,Wireless Mouse,4,24.99,99.96
+SO-0005,2026-01-26,Blue Ocean Ltd,South,Laptop Stand,7,39.5,276.5
+SO-0291,2026-01-26,Harbor Foods,North,Wireless Mouse,3,24.99,74.97
+SO-0235,2026-01-27,Acme Corp,South,Desk Lamp,4,32.0,128.0
+SO-0077,2026-01-28,Harbor Foods,West,Monitor Arm,4,89.0,356.0
+SO-0238,2026-01-28,Nova Trading,East,Standing Desk,3,1249.0,3747.0
+SO-0265,2026-01-28,Nova Trading,West,Wireless Mouse,10,24.99,249.9
+SO-0010,2026-01-29,Summit Supplies,North,Desk Lamp,5,32.0,160.0
+SO-0088,2026-01-29,Blue Ocean Ltd,North,Laptop Stand,11,39.5,434.5
+SO-0099,2026-01-30,Summit Supplies,North,Standing Desk,6,1249.0,7494.0
+SO-0021,2026-01-31,Nova Trading,East,Monitor Arm,10,89.0,890.0
+SO-0067,2026-01-31,Summit Supplies,West,Monitor Arm,11,89.0,979.0
+SO-0166,2026-01-31,Harbor Foods,North,Desk Lamp,3,32.0,96.0
+SO-0219,2026-01-31,Nova Trading,North,Desk Lamp,7,32.0,224.0
+SO-0061,2026-02-01,Summit Supplies,West,Monitor Arm,8,89.0,712.0
+SO-0055,2026-02-02,Harbor Foods,West,Standing Desk,5,1249.0,6245.0
+SO-0111,2026-02-02,Harbor Foods,East,Desk Lamp,11,32.0,352.0
+SO-0022,2026-02-03,Acme Corp,North,Monitor Arm,11,89.0,979.0
+SO-0193,2026-02-04,Nova Trading,West,Standing Desk,5,1249.0,6245.0
+SO-0212,2026-02-04,Harbor Foods,South,Wireless Mouse,7,24.99,174.93
+SO-0100,2026-02-05,Harbor Foods,South,Laptop Stand,5,39.5,197.5
+SO-0169,2026-02-05,Summit Supplies,East,Wireless Mouse,9,24.99,224.91
+SO-0186,2026-02-05,Acme Corp,South,Monitor Arm,12,89.0,1068.0
+SO-0199,2026-02-08,Nova Trading,North,Standing Desk,6,1249.0,7494.0
+SO-0296,2026-02-08,Harbor Foods,West,Monitor Arm,9,89.0,801.0
+SO-0132,2026-02-10,Greenfield Inc,North,Desk Lamp,12,32.0,384.0
+SO-0113,2026-02-11,Harbor Foods,West,Laptop Stand,3,39.5,118.5
+SO-0013,2026-02-12,Summit Supplies,South,Standing Desk,5,1249.0,6245.0
+SO-0046,2026-02-12,Blue Ocean Ltd,North,Desk Lamp,10,32.0,320.0
+SO-0232,2026-02-15,Acme Corp,East,Wireless Mouse,4,24.99,99.96
+SO-0063,2026-02-16,Nova Trading,East,Desk Lamp,10,32.0,320.0
+SO-0056,2026-02-17,Acme Corp,North,Desk Lamp,1,32.0,32.0
+SO-0202,2026-02-17,Nova Trading,West,Laptop Stand,11,39.5,434.5
+SO-0017,2026-02-18,Nova Trading,North,Laptop Stand,9,39.5,355.5
+SO-0068,2026-02-18,Greenfield Inc,West,Monitor Arm,10,89.0,890.0
+SO-0173,2026-02-18,Acme Corp,South,Standing Desk,1,1249.0,1249.0
+SO-0268,2026-02-18,Summit Supplies,North,Wireless Mouse,8,24.99,199.92
+SO-0283,2026-02-18,Blue Ocean Ltd,East,Standing Desk,1,1249.0,1249.0
+SO-0112,2026-02-19,Acme Corp,North,Monitor Arm,4,89.0,356.0
+SO-0192,2026-02-20,Greenfield Inc,West,Standing Desk,8,1249.0,9992.0
+SO-0080,2026-02-21,Summit Supplies,East,Laptop Stand,3,39.5,118.5
+SO-0115,2026-02-21,Greenfield Inc,North,Laptop Stand,10,39.5,395.0
+SO-0233,2026-02-21,Nova Trading,West,Desk Lamp,5,32.0,160.0
+SO-0200,2026-02-22,Harbor Foods,East,Monitor Arm,9,89.0,801.0
+SO-0195,2026-02-23,Nova Trading,South,Monitor Arm,8,89.0,712.0
+SO-0174,2026-02-24,Blue Ocean Ltd,South,Wireless Mouse,4,24.99,99.96
+SO-0092,2026-02-25,Nova Trading,North,Standing Desk,7,1249.0,8743.0
+SO-0142,2026-02-25,Summit Supplies,West,Laptop Stand,10,39.5,395.0
+SO-0029,2026-02-26,Blue Ocean Ltd,South,Monitor Arm,4,89.0,356.0
+SO-0241,2026-02-26,Summit Supplies,North,Wireless Mouse,3,24.99,74.97
+SO-0095,2026-02-27,Greenfield Inc,West,Monitor Arm,2,89.0,178.0
+SO-0114,2026-03-01,Blue Ocean Ltd,West,Monitor Arm,9,89.0,801.0
+SO-0104,2026-03-02,Harbor Foods,West,Laptop Stand,2,39.5,79.0
+SO-0237,2026-03-02,Harbor Foods,East,Laptop Stand,5,39.5,197.5
+SO-0253,2026-03-02,Harbor Foods,East,Wireless Mouse,6,24.99,149.94
+SO-0140,2026-03-03,Acme Corp,West,Desk Lamp,8,32.0,256.0
+SO-0181,2026-03-03,Greenfield Inc,North,Laptop Stand,4,39.5,158.0
+SO-0223,2026-03-03,Summit Supplies,North,Wireless Mouse,8,24.99,199.92
+SO-0023,2026-03-04,Summit Supplies,North,Wireless Mouse,6,24.99,149.94
+SO-0194,2026-03-04,Greenfield Inc,South,Standing Desk,6,1249.0,7494.0
+SO-0222,2026-03-05,Harbor Foods,East,Wireless Mouse,9,24.99,224.91
+SO-0025,2026-03-06,Acme Corp,South,Monitor Arm,1,89.0,89.0
+SO-0051,2026-03-08,Summit Supplies,South,Desk Lamp,6,32.0,192.0
+SO-0271,2026-03-08,Nova Trading,South,Laptop Stand,12,39.5,474.0
+SO-0295,2026-03-08,Harbor Foods,North,Wireless Mouse,11,24.99,274.89
+SO-0019,2026-03-09,Blue Ocean Ltd,South,Monitor Arm,8,89.0,712.0
+SO-0024,2026-03-09,Greenfield Inc,South,Laptop Stand,2,39.5,79.0
+SO-0082,2026-03-09,Summit Supplies,East,Wireless Mouse,9,24.99,224.91
+SO-0191,2026-03-10,Nova Trading,North,Desk Lamp,8,32.0,256.0
+SO-0116,2026-03-11,Acme Corp,South,Laptop Stand,8,39.5,316.0
+SO-0208,2026-03-12,Summit Supplies,West,Wireless Mouse,4,24.99,99.96
+SO-0217,2026-03-12,Harbor Foods,South,Laptop Stand,2,39.5,79.0
+SO-0003,2026-03-13,Acme Corp,East,Desk Lamp,3,32.0,96.0
+SO-0244,2026-03-13,Harbor Foods,North,Wireless Mouse,7,24.99,174.93
+SO-0136,2026-03-14,Blue Ocean Ltd,North,Standing Desk,2,1249.0,2498.0
+SO-0064,2026-03-15,Nova Trading,East,Monitor Arm,11,89.0,979.0
+SO-0076,2026-03-15,Summit Supplies,West,Monitor Arm,11,89.0,979.0
+SO-0188,2026-03-17,Nova Trading,South,Standing Desk,4,1249.0,4996.0
+SO-0289,2026-03-17,Harbor Foods,East,Monitor Arm,3,89.0,267.0
+SO-0280,2026-03-18,Blue Ocean Ltd,West,Standing Desk,7,1249.0,8743.0
+SO-0205,2026-03-20,Nova Trading,West,Laptop Stand,2,39.5,79.0
+SO-0033,2026-03-21,Summit Supplies,West,Standing Desk,11,1249.0,13739.0
+SO-0267,2026-03-21,Blue Ocean Ltd,West,Desk Lamp,5,32.0,160.0
+SO-0007,2026-03-22,Blue Ocean Ltd,West,Wireless Mouse,7,24.99,174.93
+SO-0298,2026-03-22,Acme Corp,North,Monitor Arm,2,89.0,178.0
+SO-0038,2026-03-23,Summit Supplies,South,Standing Desk,8,1249.0,9992.0
+SO-0073,2026-03-23,Summit Supplies,East,Monitor Arm,11,89.0,979.0
+SO-0171,2026-03-23,Blue Ocean Ltd,West,Standing Desk,12,1249.0,14988.0
+SO-0083,2026-03-25,Harbor Foods,West,Standing Desk,10,1249.0,12490.0
+SO-0187,2026-03-25,Nova Trading,West,Monitor Arm,1,89.0,89.0
+SO-0015,2026-03-26,Blue Ocean Ltd,West,Wireless Mouse,2,24.99,49.98
+SO-0157,2026-03-26,Acme Corp,East,Wireless Mouse,3,24.99,74.97
+SO-0159,2026-03-26,Harbor Foods,South,Desk Lamp,5,32.0,160.0
+SO-0198,2026-03-26,Summit Supplies,South,Monitor Arm,7,89.0,623.0
+SO-0292,2026-03-26,Harbor Foods,East,Laptop Stand,6,39.5,237.0
+SO-0297,2026-03-26,Nova Trading,North,Laptop Stand,5,39.5,197.5
+SO-0110,2026-03-27,Greenfield Inc,West,Laptop Stand,2,39.5,79.0
+SO-0081,2026-03-28,Harbor Foods,West,Desk Lamp,2,32.0,64.0
+SO-0277,2026-03-29,Harbor Foods,East,Laptop Stand,12,39.5,474.0
+SO-0048,2026-03-30,Acme Corp,West,Wireless Mouse,9,24.99,224.91
+SO-0122,2026-03-30,Blue Ocean Ltd,East,Wireless Mouse,4,24.99,99.96
+SO-0152,2026-03-30,Greenfield Inc,East,Monitor Arm,3,89.0,267.0
+SO-0245,2026-03-30,Acme Corp,South,Monitor Arm,10,89.0,890.0
+SO-0016,2026-04-01,Harbor Foods,North,Monitor Arm,7,89.0,623.0
+SO-0243,2026-04-01,Blue Ocean Ltd,South,Laptop Stand,4,39.5,158.0
+SO-0027,2026-04-02,Summit Supplies,West,Wireless Mouse,4,24.99,99.96
+SO-0258,2026-04-03,Blue Ocean Ltd,South,Wireless Mouse,1,24.99,24.99
+SO-0143,2026-04-04,Greenfield Inc,North,Desk Lamp,7,32.0,224.0
+SO-0129,2026-04-05,Summit Supplies,East,Monitor Arm,6,89.0,534.0
+SO-0011,2026-04-06,Summit Supplies,North,Laptop Stand,3,39.5,118.5
+SO-0279,2026-04-06,Nova Trading,North,Desk Lamp,5,32.0,160.0
+SO-0044,2026-04-08,Acme Corp,North,Desk Lamp,5,32.0,160.0
+SO-0148,2026-04-08,Blue Ocean Ltd,East,Standing Desk,3,1249.0,3747.0
+SO-0190,2026-04-09,Harbor Foods,South,Desk Lamp,1,32.0,32.0
+SO-0204,2026-04-10,Nova Trading,East,Standing Desk,10,1249.0,12490.0
+SO-0146,2026-04-11,Summit Supplies,West,Laptop Stand,10,39.5,395.0
+SO-0047,2026-04-12,Acme Corp,East,Monitor Arm,12,89.0,1068.0
+SO-0103,2026-04-12,Acme Corp,North,Wireless Mouse,5,24.99,124.95
+SO-0259,2026-04-12,Harbor Foods,South,Desk Lamp,8,32.0,256.0
+SO-0264,2026-04-12,Acme Corp,West,Standing Desk,9,1249.0,11241.0
+SO-0102,2026-04-14,Harbor Foods,North,Wireless Mouse,1,24.99,24.99
+SO-0072,2026-04-15,Greenfield Inc,West,Laptop Stand,11,39.5,434.5
+SO-0257,2026-04-15,Harbor Foods,South,Laptop Stand,12,39.5,474.0
+SO-0094,2026-04-16,Harbor Foods,East,Wireless Mouse,6,24.99,149.94
+SO-0236,2026-04-16,Summit Supplies,South,Standing Desk,12,1249.0,14988.0
+SO-0147,2026-04-17,Summit Supplies,South,Wireless Mouse,10,24.99,249.9
+SO-0161,2026-04-17,Blue Ocean Ltd,North,Desk Lamp,12,32.0,384.0
+SO-0224,2026-04-18,Acme Corp,North,Standing Desk,6,1249.0,7494.0
+SO-0037,2026-04-19,Acme Corp,North,Wireless Mouse,4,24.99,99.96
+SO-0060,2026-04-19,Blue Ocean Ltd,South,Laptop Stand,2,39.5,79.0
+SO-0158,2026-04-20,Blue Ocean Ltd,West,Monitor Arm,9,89.0,801.0
+SO-0135,2026-04-21,Summit Supplies,South,Laptop Stand,9,39.5,355.5
+SO-0049,2026-04-22,Summit Supplies,West,Laptop Stand,3,39.5,118.5
+SO-0125,2026-04-23,Greenfield Inc,East,Monitor Arm,7,89.0,623.0
+SO-0210,2026-04-23,Harbor Foods,West,Wireless Mouse,2,24.99,49.98
+SO-0074,2026-04-24,Greenfield Inc,East,Wireless Mouse,3,24.99,74.97
+SO-0189,2026-04-24,Blue Ocean Ltd,West,Desk Lamp,6,32.0,192.0
+SO-0163,2026-04-25,Summit Supplies,West,Standing Desk,1,1249.0,1249.0
+SO-0014,2026-04-26,Summit Supplies,South,Standing Desk,2,1249.0,2498.0
+SO-0107,2026-04-26,Summit Supplies,North,Wireless Mouse,10,24.99,249.9
+SO-0131,2026-04-26,Harbor Foods,East,Wireless Mouse,3,24.99,74.97
+SO-0139,2026-04-29,Harbor Foods,East,Monitor Arm,4,89.0,356.0
+SO-0260,2026-04-30,Blue Ocean Ltd,North,Monitor Arm,5,89.0,445.0
+SO-0059,2026-05-01,Harbor Foods,North,Standing Desk,5,1249.0,6245.0
+SO-0118,2026-05-01,Nova Trading,North,Desk Lamp,12,32.0,384.0
+SO-0149,2026-05-01,Summit Supplies,West,Standing Desk,12,1249.0,14988.0
+SO-0278,2026-05-01,Harbor Foods,North,Wireless Mouse,3,24.99,74.97
+SO-0036,2026-05-02,Harbor Foods,West,Laptop Stand,10,39.5,395.0
+SO-0089,2026-05-02,Nova Trading,North,Wireless Mouse,8,24.99,199.92
+SO-0300,2026-05-02,Acme Corp,South,Standing Desk,12,1249.0,14988.0
+SO-0214,2026-05-05,Harbor Foods,East,Monitor Arm,6,89.0,534.0
+SO-0178,2026-05-06,Summit Supplies,North,Standing Desk,3,1249.0,3747.0
+SO-0213,2026-05-06,Nova Trading,North,Monitor Arm,3,89.0,267.0
+SO-0215,2026-05-07,Summit Supplies,East,Laptop Stand,5,39.5,197.5
+SO-0177,2026-05-08,Nova Trading,West,Laptop Stand,9,39.5,355.5
+SO-0117,2026-05-09,Blue Ocean Ltd,North,Monitor Arm,6,89.0,534.0
+SO-0145,2026-05-09,Nova Trading,South,Monitor Arm,1,89.0,89.0
+SO-0262,2026-05-09,Acme Corp,West,Wireless Mouse,10,24.99,249.9
+SO-0108,2026-05-10,Nova Trading,South,Wireless Mouse,11,24.99,274.89
+SO-0207,2026-05-10,Harbor Foods,West,Standing Desk,11,1249.0,13739.0
+SO-0225,2026-05-10,Nova Trading,North,Monitor Arm,5,89.0,445.0
+SO-0270,2026-05-10,Blue Ocean Ltd,West,Monitor Arm,7,89.0,623.0
+SO-0226,2026-05-11,Nova Trading,North,Wireless Mouse,4,24.99,99.96
+SO-0274,2026-05-11,Greenfield Inc,West,Wireless Mouse,11,24.99,274.89
+SO-0288,2026-05-11,Nova Trading,South,Wireless Mouse,12,24.99,299.88
+SO-0272,2026-05-12,Nova Trading,South,Monitor Arm,1,89.0,89.0
+SO-0130,2026-05-13,Harbor Foods,East,Monitor Arm,7,89.0,623.0
+SO-0039,2026-05-14,Harbor Foods,East,Desk Lamp,8,32.0,256.0
+SO-0228,2026-05-14,Greenfield Inc,East,Desk Lamp,9,32.0,288.0
+SO-0250,2026-05-15,Summit Supplies,East,Wireless Mouse,6,24.99,149.94
+SO-0119,2026-05-16,Acme Corp,West,Standing Desk,7,1249.0,8743.0
+SO-0180,2026-05-16,Summit Supplies,West,Wireless Mouse,12,24.99,299.88
+SO-0246,2026-05-16,Acme Corp,South,Monitor Arm,6,89.0,534.0
+SO-0006,2026-05-17,Harbor Foods,South,Laptop Stand,12,39.5,474.0
+SO-0167,2026-05-17,Blue Ocean Ltd,North,Monitor Arm,7,89.0,623.0
+SO-0175,2026-05-17,Nova Trading,West,Monitor Arm,11,89.0,979.0
+SO-0286,2026-05-17,Harbor Foods,North,Desk Lamp,10,32.0,320.0
+SO-0008,2026-05-18,Greenfield Inc,South,Standing Desk,5,1249.0,6245.0
+SO-0209,2026-05-19,Nova Trading,South,Desk Lamp,1,32.0,32.0
+SO-0124,2026-05-20,Greenfield Inc,North,Monitor Arm,8,89.0,712.0
+SO-0126,2026-05-20,Greenfield Inc,West,Laptop Stand,5,39.5,197.5
+SO-0150,2026-05-20,Summit Supplies,South,Desk Lamp,6,32.0,192.0
+SO-0053,2026-05-21,Greenfield Inc,South,Monitor Arm,6,89.0,534.0
+SO-0256,2026-05-21,Harbor Foods,South,Wireless Mouse,2,24.99,49.98
+SO-0133,2026-05-22,Summit Supplies,North,Desk Lamp,10,32.0,320.0
+SO-0231,2026-05-22,Blue Ocean Ltd,East,Wireless Mouse,12,24.99,299.88
+SO-0206,2026-05-23,Nova Trading,East,Laptop Stand,3,39.5,118.5
+SO-0026,2026-05-24,Summit Supplies,East,Monitor Arm,1,89.0,89.0
+SO-0211,2026-05-26,Greenfield Inc,East,Wireless Mouse,6,24.99,149.94
+SO-0248,2026-05-26,Summit Supplies,West,Desk Lamp,10,32.0,320.0
+SO-0294,2026-05-26,Summit Supplies,South,Monitor Arm,11,89.0,979.0
+SO-0230,2026-05-27,Acme Corp,North,Wireless Mouse,11,24.99,274.89
+SO-0041,2026-05-28,Nova Trading,West,Wireless Mouse,7,24.99,174.93
+SO-0134,2026-05-28,Nova Trading,East,Monitor Arm,2,89.0,178.0
+SO-0141,2026-05-28,Summit Supplies,East,Desk Lamp,12,32.0,384.0
+SO-0203,2026-05-28,Greenfield Inc,North,Wireless Mouse,2,24.99,49.98
+SO-0247,2026-05-28,Blue Ocean Ltd,East,Laptop Stand,7,39.5,276.5
+SO-0069,2026-05-31,Nova Trading,East,Desk Lamp,10,32.0,320.0
+SO-0185,2026-05-31,Acme Corp,South,Laptop Stand,3,39.5,118.5
+SO-0098,2026-06-02,Harbor Foods,West,Standing Desk,2,1249.0,2498.0
+SO-0197,2026-06-02,Harbor Foods,South,Standing Desk,11,1249.0,13739.0
+SO-0137,2026-06-04,Acme Corp,East,Standing Desk,6,1249.0,7494.0
+SO-0078,2026-06-05,Blue Ocean Ltd,East,Wireless Mouse,12,24.99,299.88
+SO-0128,2026-06-05,Blue Ocean Ltd,East,Laptop Stand,11,39.5,434.5
+SO-0266,2026-06-05,Harbor Foods,West,Standing Desk,11,1249.0,13739.0
+SO-0058,2026-06-06,Greenfield Inc,South,Wireless Mouse,12,24.99,299.88
+SO-0085,2026-06-07,Blue Ocean Ltd,South,Monitor Arm,7,89.0,623.0
+SO-0127,2026-06-07,Acme Corp,West,Desk Lamp,7,32.0,224.0
+SO-0282,2026-06-07,Nova Trading,South,Laptop Stand,7,39.5,276.5
+SO-0091,2026-06-09,Summit Supplies,West,Desk Lamp,11,32.0,352.0
+SO-0079,2026-06-10,Nova Trading,East,Laptop Stand,2,39.5,79.0
+SO-0138,2026-06-10,Blue Ocean Ltd,West,Monitor Arm,9,89.0,801.0
+SO-0123,2026-06-11,Acme Corp,North,Monitor Arm,3,89.0,267.0
+SO-0281,2026-06-11,Greenfield Inc,South,Desk Lamp,3,32.0,96.0
+SO-0299,2026-06-13,Greenfield Inc,North,Standing Desk,5,1249.0,6245.0
+SO-0030,2026-06-14,Acme Corp,East,Desk Lamp,9,32.0,288.0
+SO-0105,2026-06-14,Blue Ocean Ltd,West,Standing Desk,11,1249.0,13739.0
+SO-0165,2026-06-14,Nova Trading,West,Laptop Stand,12,39.5,474.0
+SO-0220,2026-06-14,Summit Supplies,West,Laptop Stand,11,39.5,434.5
+SO-0273,2026-06-14,Nova Trading,West,Desk Lamp,5,32.0,160.0
+SO-0052,2026-06-15,Greenfield Inc,South,Monitor Arm,12,89.0,1068.0
+SO-0201,2026-06-15,Summit Supplies,South,Desk Lamp,2,32.0,64.0
+SO-0251,2026-06-16,Blue Ocean Ltd,South,Monitor Arm,6,89.0,534.0
+SO-0255,2026-06-16,Greenfield Inc,East,Standing Desk,11,1249.0,13739.0
+SO-0275,2026-06-17,Blue Ocean Ltd,South,Desk Lamp,12,32.0,384.0
+SO-0035,2026-06-18,Acme Corp,South,Laptop Stand,2,39.5,79.0
+SO-0065,2026-06-18,Summit Supplies,West,Wireless Mouse,9,24.99,224.91
+SO-0290,2026-06-21,Harbor Foods,East,Standing Desk,8,1249.0,9992.0
+SO-0240,2026-06-23,Nova Trading,South,Wireless Mouse,5,24.99,124.95
+SO-0009,2026-06-24,Summit Supplies,North,Laptop Stand,7,39.5,276.5
+SO-0144,2026-06-24,Greenfield Inc,East,Standing Desk,10,1249.0,12490.0
+SO-0276,2026-06-24,Greenfield Inc,West,Desk Lamp,3,32.0,96.0
+SO-0032,2026-06-25,Greenfield Inc,East,Standing Desk,12,1249.0,14988.0
+SO-0221,2026-06-25,Blue Ocean Ltd,West,Standing Desk,8,1249.0,9992.0
+SO-0293,2026-06-26,Acme Corp,North,Monitor Arm,8,89.0,712.0
+SO-0040,2026-06-27,Greenfield Inc,West,Monitor Arm,3,89.0,267.0
+SO-0066,2026-06-28,Harbor Foods,North,Monitor Arm,8,89.0,712.0
+SO-0070,2026-06-28,Acme Corp,West,Laptop Stand,4,39.5,158.0
+SO-0153,2026-06-28,Blue Ocean Ltd,South,Standing Desk,5,1249.0,6245.0
+SO-0252,2026-06-29,Blue Ocean Ltd,South,Wireless Mouse,10,24.99,249.9
+SO-0287,2026-06-29,Greenfield Inc,North,Monitor Arm,3,89.0,267.0
+SO-0151,2026-06-30,Greenfield Inc,East,Desk Lamp,4,32.0,128.0
+SO-0160,2026-06-30,Greenfield Inc,South,Standing Desk,5,1249.0,6245.0
